@@ -1,4 +1,4 @@
-# Old-good course inspector tool
+# Old-good course inspector tool [![Build Status](https://travis-ci.org/StudyIntonation/course-inspector.svg?branch=master)](https://travis-ci.org/StudyIntonation/course-inspector)
 
 Usage: 
 
