@@ -1,0 +1,7 @@
+.idea
+.gradle
+*.json
+*.txt
+build
+out
+
