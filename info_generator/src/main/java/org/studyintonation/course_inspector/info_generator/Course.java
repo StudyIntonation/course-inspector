@@ -8,6 +8,7 @@ class Course {
     private String description;
     private String logoUrl;
     private int size;
+    private String language;
     private int difficulty;
     private String category;
     private String version;
